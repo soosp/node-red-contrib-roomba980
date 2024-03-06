@@ -17,7 +17,7 @@
     "url": "https://github.com/somebuddy87/node-red-contrib-roomba980"
   },
   "dependencies": {
-    "dorita980": ">=2.4.0"
+    "@karlvr/dorita980": ">=3.2.1"
    },
   "node-red": {
     "nodes": {
