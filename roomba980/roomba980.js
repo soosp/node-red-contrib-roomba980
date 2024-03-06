@@ -1,6 +1,6 @@
 module.exports = function(RED) {
 
-  var dorita980 = require('dorita980');
+  var dorita980 = require('@karlvr/dorita980');
 
   function dorita980ConfigNode(n) {
     RED.nodes.createNode(this, n);
